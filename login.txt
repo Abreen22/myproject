@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+##add this code on top
+this is code for account
+
+=======
+hii
+>>>>>>> master
